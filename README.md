@@ -20,14 +20,16 @@ Python is a general-purpose, high-level programming language. In 1991,Guido Van 
 
 3. **Verify Installation**  
    - Open Command Prompt.
-   - Type the following to check the Python version:  
+   - Type the following to check the Python version:
+     
      ```bash
      python --version
      ```
 
 4. **Verify for Python 3**  
    - Open Command Prompt.
-   - Run this command to verify Python 3 installation:  
+   - Run this command to verify Python 3 installation:
+     
      ```bash
      python3 --version
      ```
