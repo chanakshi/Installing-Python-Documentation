@@ -11,23 +11,28 @@ Python is a general-purpose, high-level programming language. In 1991,Guido Van 
 ### Procedure
 1. **Download Python**  
    a. Visit [python.org](https://www.python.org/downloads/).
+   
    b. Download the appropriate installer for your OS (Windows, macOS, or Linux).
 
-2. **Install Python (For Windows)**  
+3. **Install Python (For Windows)**  
    a. Run the installer.
+   
    b. Check the box "Add Python to PATH".
+   
    c. Click **Install Now**.
 
-3. **Verify Installation**  
+5. **Verify Installation**  
    a. Open Command Prompt.
+   
    b. Type the following to check the Python version:
      
      ```bash
      python --version
      ```
 
-4. **Verify for Python 3**  
+7. **Verify for Python 3**  
    a. Open Command Prompt.
+   
    b. Run this command to verify Python 3 installation:
      
      ```bash
